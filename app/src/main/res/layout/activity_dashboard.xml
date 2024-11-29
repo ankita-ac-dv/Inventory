@@ -120,6 +120,7 @@
                     android:layout_width="64dp"
                     android:layout_height="64dp"
                     android:src="@drawable/group"
+                    android:onClick="cost"
                     android:layout_gravity="center"
                     android:layout_marginTop="20dp">
 
@@ -156,6 +157,7 @@
                     android:layout_width="64dp"
                     android:layout_height="64dp"
                     android:src="@drawable/group"
+                    android:onClick="center"
                     android:layout_gravity="center"
                     android:layout_marginTop="20dp">
 
